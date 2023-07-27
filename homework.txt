@@ -2,4 +2,4 @@ stsrt
 Input A,B
 If A is grater than B then output is A
 Else out is B
-End
+End A
